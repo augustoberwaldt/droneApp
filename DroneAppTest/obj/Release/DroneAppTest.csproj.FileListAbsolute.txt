@@ -1,0 +1,2 @@
+c:\Users\Harley\source\repos\DroneApp\DroneAppTest\obj\Release\DroneAppTest.csprojAssemblyReference.cache
+c:\Users\Harley\source\repos\DroneApp\DroneAppTest\obj\Release\DroneAppTest.csproj.CoreCompileInputs.cache

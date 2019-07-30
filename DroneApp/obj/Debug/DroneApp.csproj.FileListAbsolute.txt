@@ -1,0 +1,7 @@
+c:\users\harley\source\repos\DroneApp\DroneApp\bin\Debug\DroneApp.exe.config
+c:\users\harley\source\repos\DroneApp\DroneApp\bin\Debug\DroneApp.exe
+c:\users\harley\source\repos\DroneApp\DroneApp\bin\Debug\DroneApp.pdb
+c:\users\harley\source\repos\DroneApp\DroneApp\obj\Debug\DroneApp.csprojAssemblyReference.cache
+c:\users\harley\source\repos\DroneApp\DroneApp\obj\Debug\DroneApp.csproj.CoreCompileInputs.cache
+c:\users\harley\source\repos\DroneApp\DroneApp\obj\Debug\DroneApp.exe
+c:\users\harley\source\repos\DroneApp\DroneApp\obj\Debug\DroneApp.pdb
